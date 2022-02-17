@@ -1,4 +1,4 @@
-# SST-classification
+# MovieComment-classification
 
 對電影評論做情緒分析
 
